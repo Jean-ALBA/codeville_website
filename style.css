@@ -22,6 +22,12 @@ h1, h2, p, a, button {
     font-family: 'Tilt Neon', sans-serif;
 }
 
+h1:hover, h2:hover, p:hover, a:hover, button:hover {
+    font-family: 'Tilt Neon', sans-serif;
+    color: rgb(26, 255, 0);
+    font-size: 22px;
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color: var(--color4);
