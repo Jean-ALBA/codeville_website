@@ -12,10 +12,10 @@ html {
 
 :root{
     --color1: #469B9B;
-    --color2: #F06B1D;
+    --color2: #00c8ff;
     --color3: #00EFEE;
-    --color4: #B06A41;
-    --color5: #705546;
+    --color4: #ff00cc;
+    --color5: #ccff00;
 }
 
 h1, h2, p, a, button {
